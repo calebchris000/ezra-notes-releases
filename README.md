@@ -1,7 +1,7 @@
-# Table Notes
+# Ezra
 
-An Android app for keeping notes as tables: rows, typed columns, totals, and backup
-to your own cloud accounts or to a folder on your device.
+Notes that live in tables: rows, typed columns, totals, and backup to your own
+cloud accounts or to a folder on your device.
 
 This repository holds **release builds only**. The source is kept private.
 
@@ -12,6 +12,20 @@ Android will ask you to allow installing from this source the first time.
 
 Builds are signed with a consistent key, so a new version upgrades an existing install
 in place and keeps your data.
+
+### Upgrading from 1.0.0
+
+Version 1.0.1 renamed the app from Table Notes to Ezra, and the application ID changed
+with it. Android treats that as a different app, so **1.0.1 installs alongside 1.0.0
+rather than replacing it**, and it starts with an empty database.
+
+To carry your data across:
+
+1. Open the old app and back up, to a cloud account or to a folder
+2. Install Ezra and restore from that backup
+3. Remove the old app once you have checked everything came over
+
+Only this one version behaves that way. Releases after 1.0.1 upgrade normally.
 
 ## Staying up to date
 
