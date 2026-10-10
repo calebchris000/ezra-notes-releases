@@ -42,7 +42,7 @@ updates automatically. Add this repo's URL as an app source.
 - Backup and sync to Google Drive, OneDrive, Dropbox, or a folder on the device
 - Several accounts at once, with one chosen as primary for two-way merges
 - Snapshots taken before a sync can overwrite anything, restorable from the app
-- Reminders per table, with a time for each weekday, a loud 3-second alert, and a Yes
+- Reminders per table, with a time for each weekday, a loud 1-second alert, and a Yes
   button that dates a row and starts its timer
 - Themes, pinned tables, daily reminders
 
