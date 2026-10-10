@@ -37,7 +37,8 @@ updates automatically. Add this repo's URL as an app source.
 - Tables with typed columns: text, number, amount with currency, date, time, duration,
   checkbox, choice and image
 - Totals per column, with sum or average
-- Templates, CSV and XLSX import, CSV export
+- Templates, CSV and XLSX import
+- Export a table as Excel, PDF or CSV, saved to Downloads and ready to share
 - Backup and sync to Google Drive, OneDrive, Dropbox, or a folder on the device
 - Several accounts at once, with one chosen as primary for two-way merges
 - Snapshots taken before a sync can overwrite anything, restorable from the app
